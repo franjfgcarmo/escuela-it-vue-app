@@ -73,3 +73,7 @@ npm run lint
 - .eslintrc
 - prettierrc
 - .vscode
+
+## https://github.com/ota-meshi/stylelint-config-recommended-vue
+
+https://vueschool.io/articles/vuejs-tutorials/eslint-and-prettier-with-vite-and-vue-js-3/
